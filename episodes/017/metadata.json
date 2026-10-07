@@ -12,7 +12,7 @@
     "en"
   ],
   "audio_present": false,
-  "narration_status": "not produced",
+  "narration_status": "awaiting_new_voice",
   "format": {
     "width": 1280,
     "height": 720,
@@ -88,7 +88,7 @@
     "voice": "none",
     "third_party_video": "none"
   },
-  "publication_status": "Source prepared for public publication; review videos are distributed separately",
+  "publication_status": "Public review source only; previous Kokoro narration rejected by the user and not published",
   "validation": {
     "zh": {
       "codec_name": "h264",
@@ -113,5 +113,11 @@
     "017_pi_exponent_zh_review.mp4": "e5ebdf0df66ff1ed35cbae7e4f11dc4b9e0920a9eab3b92d4f8b7834a6827387",
     "017_pi_exponent_en_review.mp4": "900e6773d5a01770842c93488f2b165c65c6e743d1f4cc520b03bd338e6620b1"
   },
-  "qa_status": "passed codec/duration/full decode/subtitle bounds/numerical tests; contact sheets visually inspected"
+  "qa_status": "passed codec/duration/full decode/subtitle bounds/numerical tests; contact sheets visually inspected",
+  "voice_review": {
+    "status": "user_rejected",
+    "previous_model": "Kokoro",
+    "previous_voiced_assets_public": false,
+    "next_step": "Approve a new model/voice sample before full narration or voiced publication"
+  }
 }
