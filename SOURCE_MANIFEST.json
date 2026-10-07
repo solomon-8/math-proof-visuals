@@ -1,0 +1,84 @@
+{
+  "files": [
+    {
+      "path": "video/render.py",
+      "bytes": 19915,
+      "sha256": "848fe4db44c2d8c674cc2dacb9d765e67d28f8a8fc4ea8c0156c836c6524c0c0"
+    },
+    {
+      "path": "video/validate.py",
+      "bytes": 3356,
+      "sha256": "7e761fd29f79aae9d874f8f462ada34cdcde514021501b1a5c2638dcd72410d2"
+    },
+    {
+      "path": "episodes/017/metadata.json",
+      "bytes": 4875,
+      "sha256": "510befdd45c8af73d08e4d3f3e8a1cc3a6c178878ed9867aa5ddb4fb55dd5f72"
+    },
+    {
+      "path": "video/qa/validation.json",
+      "bytes": 5451,
+      "sha256": "39bfd7f816fd537c8196b9cc0f3270efc5a9e02d576499f9613b6a5e2df305aa"
+    },
+    {
+      "path": "episodes/017/script.json",
+      "bytes": 11843,
+      "sha256": "c7392bbb69fcf39c82e1c7d7bbcdbae8089659df74339066b80f60274e55c123"
+    },
+    {
+      "path": "episodes/017/subtitles/017.zh.srt",
+      "bytes": 3926,
+      "sha256": "4d85f4f5fb915c2d01826888aaef44a926ecd2a168d69410b18cc123beefefb4"
+    },
+    {
+      "path": "episodes/017/subtitles/017.en.srt",
+      "bytes": 4140,
+      "sha256": "da8fad3abd9369a41cec81206794abafc516d0fa26882259e8199c75f98c8460"
+    },
+    {
+      "path": "licenses/LICENSE.openai-math",
+      "bytes": 11357,
+      "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+    },
+    {
+      "path": "licenses/DEJAVU-COPYRIGHT.txt",
+      "bytes": 3859,
+      "sha256": "63d3ba759d12804c5b31a9d5940d855c1820d1f5999e6b0872eb1c7ff045fbc9"
+    },
+    {
+      "path": "licenses/NOTO-CJK-COPYRIGHT.txt",
+      "bytes": 14712,
+      "sha256": "849f4ea9c214fa4ac3593b770c699f387534b11ce671264c1b10d85bdcb5997b"
+    },
+    {
+      "path": "README.md",
+      "bytes": 5401,
+      "sha256": "baca4061889a2a551bd2c719ea2ca5e13e516fc71999a70d62c4f6319b7cdc76"
+    },
+    {
+      "path": "SOURCE_SNAPSHOT.md",
+      "bytes": 1175,
+      "sha256": "c746bed1954d9ae73cc76d410bfa3fceb84fd2c48e5a4e6ea9db1b42e3edb7d8"
+    },
+    {
+      "path": "THIRD_PARTY_NOTICES.md",
+      "bytes": 1288,
+      "sha256": "fe6f89200eed87027a5611405d0c888b2238eef3f30705b3fe33f54361dfa29e"
+    },
+    {
+      "path": "requirements.txt",
+      "bytes": 120,
+      "sha256": "b51e6945a592f99692e2118f7837ec68213a34e878829225139f836cae0d6d11"
+    },
+    {
+      "path": "scripts/render.sh",
+      "bytes": 177,
+      "sha256": "b5bba0e4d07e8ccb04ec817cb0a55206eb3cbf9f88466a56bacb7daf421f13a4"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 529,
+      "sha256": "f8587d7a1e618cd5c0e090ce7705308983ffb5fb15356f10e740ffde4caba259"
+    }
+  ]
+}

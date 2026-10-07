@@ -1,0 +1,275 @@
+{
+  "status": "passed",
+  "duration_seconds": 226,
+  "independent_formal_compilation": false,
+  "proof_validity_certified": false,
+  "audio": "intentionally absent; no narration synthesized",
+  "numbers": [
+    {
+      "p": 22,
+      "q": 7,
+      "absolute_error": "0.0012644892673496186802137595776399729456877434820370361679125505922",
+      "q_squared_times_error": "0.061959974100131315330474219304358674338699430619814772227714979018"
+    },
+    {
+      "p": 355,
+      "q": 113,
+      "absolute_error": "2.667641890624223123689328864963338040519523278073436394784922E-7",
+      "q_squared_times_error": "0.0034063119301380705066389040276716863439393792737719709325008669018"
+    }
+  ],
+  "streams": {
+    "zh": {
+      "codec_name": "h264",
+      "width": 1280,
+      "height": 720,
+      "pix_fmt": "yuv420p",
+      "avg_frame_rate": "24/1",
+      "nb_frames": "5424",
+      "duration": "226.000000"
+    },
+    "en": {
+      "codec_name": "h264",
+      "width": 1280,
+      "height": 720,
+      "pix_fmt": "yuv420p",
+      "avg_frame_rate": "24/1",
+      "nb_frames": "5424",
+      "duration": "226.000000"
+    }
+  },
+  "subtitle_cues": {
+    "zh": 27,
+    "en": 27
+  },
+  "decode_tests": {
+    "zh": "all frames decoded without error",
+    "en": "all frames decoded without error"
+  },
+  "frame_tests": {
+    "zh": [
+      {
+        "scene": "hook",
+        "time_seconds": 8.82,
+        "size": [
+          1280,
+          720
+        ],
+        "nonblank": true
+      },
+      {
+        "scene": "examples",
+        "time_seconds": 26.6,
+        "size": [
+          1280,
+          720
+        ],
+        "nonblank": true
+      },
+      {
+        "scene": "scales",
+        "time_seconds": 45.34,
+        "size": [
+          1280,
+          720
+        ],
+        "nonblank": true
+      },
+      {
+        "scene": "definition",
+        "time_seconds": 64.6,
+        "size": [
+          1280,
+          720
+        ],
+        "nonblank": true
+      },
+      {
+        "scene": "pigeonhole",
+        "time_seconds": 87.12,
+        "size": [
+          1280,
+          720
+        ],
+        "nonblank": true
+      },
+      {
+        "scene": "quantifiers",
+        "time_seconds": 111.12,
+        "size": [
+          1280,
+          720
+        ],
+        "nonblank": true
+      },
+      {
+        "scene": "caveat",
+        "time_seconds": 131.34,
+        "size": [
+          1280,
+          720
+        ],
+        "nonblank": true
+      },
+      {
+        "scene": "roadmap",
+        "time_seconds": 149.34,
+        "size": [
+          1280,
+          720
+        ],
+        "nonblank": true
+      },
+      {
+        "scene": "determinant",
+        "time_seconds": 169.86,
+        "size": [
+          1280,
+          720
+        ],
+        "nonblank": true
+      },
+      {
+        "scene": "bottleneck",
+        "time_seconds": 189.34,
+        "size": [
+          1280,
+          720
+        ],
+        "nonblank": true
+      },
+      {
+        "scene": "status",
+        "time_seconds": 207.34,
+        "size": [
+          1280,
+          720
+        ],
+        "nonblank": true
+      },
+      {
+        "scene": "outro",
+        "time_seconds": 221.56,
+        "size": [
+          1280,
+          720
+        ],
+        "nonblank": true
+      }
+    ],
+    "en": [
+      {
+        "scene": "hook",
+        "time_seconds": 8.82,
+        "size": [
+          1280,
+          720
+        ],
+        "nonblank": true
+      },
+      {
+        "scene": "examples",
+        "time_seconds": 26.6,
+        "size": [
+          1280,
+          720
+        ],
+        "nonblank": true
+      },
+      {
+        "scene": "scales",
+        "time_seconds": 45.34,
+        "size": [
+          1280,
+          720
+        ],
+        "nonblank": true
+      },
+      {
+        "scene": "definition",
+        "time_seconds": 64.6,
+        "size": [
+          1280,
+          720
+        ],
+        "nonblank": true
+      },
+      {
+        "scene": "pigeonhole",
+        "time_seconds": 87.12,
+        "size": [
+          1280,
+          720
+        ],
+        "nonblank": true
+      },
+      {
+        "scene": "quantifiers",
+        "time_seconds": 111.12,
+        "size": [
+          1280,
+          720
+        ],
+        "nonblank": true
+      },
+      {
+        "scene": "caveat",
+        "time_seconds": 131.34,
+        "size": [
+          1280,
+          720
+        ],
+        "nonblank": true
+      },
+      {
+        "scene": "roadmap",
+        "time_seconds": 149.34,
+        "size": [
+          1280,
+          720
+        ],
+        "nonblank": true
+      },
+      {
+        "scene": "determinant",
+        "time_seconds": 169.86,
+        "size": [
+          1280,
+          720
+        ],
+        "nonblank": true
+      },
+      {
+        "scene": "bottleneck",
+        "time_seconds": 189.34,
+        "size": [
+          1280,
+          720
+        ],
+        "nonblank": true
+      },
+      {
+        "scene": "status",
+        "time_seconds": 207.34,
+        "size": [
+          1280,
+          720
+        ],
+        "nonblank": true
+      },
+      {
+        "scene": "outro",
+        "time_seconds": 221.56,
+        "size": [
+          1280,
+          720
+        ],
+        "nonblank": true
+      }
+    ]
+  },
+  "sha256": {
+    "017_pi_exponent_zh_review.mp4": "e5ebdf0df66ff1ed35cbae7e4f11dc4b9e0920a9eab3b92d4f8b7834a6827387",
+    "017_pi_exponent_en_review.mp4": "900e6773d5a01770842c93488f2b165c65c6e743d1f4cc520b03bd338e6620b1"
+  }
+}

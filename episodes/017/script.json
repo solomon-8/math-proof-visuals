@@ -1,0 +1,255 @@
+{
+  "episode": "017",
+  "status": "subtitle-only review animatic; not independently verified",
+  "fps": 24,
+  "width": 1280,
+  "height": 720,
+  "scenes": [
+    {
+      "id": "hook",
+      "duration": 14,
+      "en": {
+        "title": "How close can a fraction get to π?",
+        "subtitle": [
+          "A fraction can imitate pi astonishingly well. But a small error is only half the story.",
+          "The other half is the size of its denominator. How much accuracy can that denominator buy?"
+        ],
+        "label": "accuracy versus denominator"
+      },
+      "zh": {
+        "title": "一个分数，能离 π 多近？",
+        "subtitle": [
+          "有些分数逼近圆周率，精确得惊人。但只看误差，还不够。",
+          "我们还要看分母有多大：付出这样的分母，换来了多少精度？"
+        ],
+        "label": "精度，与分母的代价"
+      }
+    },
+    {
+      "id": "examples",
+      "duration": 20,
+      "en": {
+        "title": "Two familiar approximations",
+        "subtitle": [
+          "Twenty-two sevenths misses pi by about 0.00126449. The denominator is only seven.",
+          "With denominator 113, the fraction 355 over 113 has error about 0.000000266764.",
+          "That is remarkable. It is still a single approximation, not an infinite pattern."
+        ],
+        "label": "The gaps below use different magnifications"
+      },
+      "zh": {
+        "title": "两个熟悉的近似值",
+        "subtitle": [
+          "七分之二十二，与 π 相差约 0.00126449。它的分母只有 7。",
+          "分母变成 113，三百五十五除以一百一十三，误差只有约 0.000000266764。",
+          "这很惊人。但一个漂亮的近似值，还不是无穷多个近似值的规律。"
+        ],
+        "label": "下方两条误差线采用不同放大倍率"
+      }
+    },
+    {
+      "id": "scales",
+      "duration": 18,
+      "en": {
+        "title": "Compare powers, not just decimals",
+        "subtitle": [
+          "Use the denominator q as a scale. Compare the error with one over q squared, or one over q to the power 2.5.",
+          "On logarithmic axes, these powers are straight lines. A dot below a line beats that benchmark at that denominator."
+        ],
+        "label": "reference curves, not universal lower bounds"
+      },
+      "zh": {
+        "title": "不只数小数位，还要比较幂次",
+        "subtitle": [
+          "把分母 q 当作尺度，将误差与 q 的负二次方、负二点五次方作比较。",
+          "在双对数坐标里，这些幂函数都是直线。一个点落在线下，就表示它在这个分母上胜过了对应尺度。"
+        ],
+        "label": "这些是比较基准，并非普遍的误差下界"
+      }
+    },
+    {
+      "id": "definition",
+      "duration": 20,
+      "en": {
+        "title": "The key phrase: infinitely many",
+        "subtitle": [
+          "The irrationality exponent is the supremum of exponents nu for which infinitely many reduced fractions beat q to the minus nu.",
+          "A larger exponent means an even smaller target error. One spectacular fraction cannot decide this supremum."
+        ],
+        "label": "p and q coprime; q ≥ 2; ν > 0"
+      },
+      "zh": {
+        "title": "关键词：无穷多个",
+        "subtitle": [
+          "无理数指数，是这样一些指数 ν 的上确界：有无穷多个约分后的分数，误差小于 q 的负 ν 次方。",
+          "指数越大，要求的误差越小。再惊人的单个分数，也不能决定这个上确界。"
+        ],
+        "label": "p、q 互素；q ≥ 2；ν > 0"
+      }
+    },
+    {
+      "id": "pigeonhole",
+      "duration": 24,
+      "en": {
+        "title": "Why the number 2 appears",
+        "subtitle": [
+          "Take the fractional parts of zero, x, two x, all the way to N x. There are N plus one points in N equal boxes.",
+          "Two points share a box. Subtracting them gives integers p and q, with one at most q at most N, and error less than one over q N.",
+          "That is at most one over q squared. For irrational x, increasing N forces infinitely many distinct approximations. So the exponent is at least two."
+        ],
+        "label": "Pigeonhole principle · irrational x"
+      },
+      "zh": {
+        "title": "为什么偏偏是 2？",
+        "subtitle": [
+          "取 0、x、2x，一直到 Nx 的小数部分。把单位区间分成 N 格，却放进了 N＋1 个点。",
+          "必有两个点同格。相减后得到整数 p、q，其中 1 ≤ q ≤ N，且逼近误差小于 1／(qN)。",
+          "而 1／(qN) 不超过 1／q²。x 无理时，增大 N 会迫使不同的近似值无穷出现，所以无理数指数至少为 2。"
+        ],
+        "label": "鸽巢原理 · x 为无理数"
+      }
+    },
+    {
+      "id": "quantifiers",
+      "duration": 24,
+      "en": {
+        "title": "What the repository claims for π",
+        "subtitle": [
+          "The repository claims the matching upper bound. Choose any exponent nu strictly greater than two.",
+          "There is a threshold Q, allowed to depend on nu. Beyond it, every integer numerator p and every integer denominator q satisfy this inequality.",
+          "The paper does not give an effective value of Q. These quantifiers are the substance of the claim."
+        ],
+        "label": "claimed theorem · threshold not given effectively"
+      },
+      "zh": {
+        "title": "仓库对 π 声称了什么？",
+        "subtitle": [
+          "这个仓库声称补上了反方向。先任选一个严格大于 2 的指数 ν。",
+          "存在一个可以依赖 ν 的阈值 Q。只要整数分母 q ≥ Q，不论整数分子 p 是多少，都满足这条下界。",
+          "论文并未有效给出 Q 的数值。这些量词，才是这个主张的核心。"
+        ],
+        "label": "仓库主张 · 未有效给出阈值"
+      }
+    },
+    {
+      "id": "caveat",
+      "duration": 18,
+      "en": {
+        "title": "Keep the boundary honest",
+        "subtitle": [
+          "This is not a lower bound of one over q squared for every fraction. The example 355 over 113 already beats that.",
+          "Exponent two also does not imply a fixed positive constant c giving a c over q squared bound. And it is not a faster algorithm for computing pi."
+        ],
+        "label": "μ(π) = 2 does not imply a uniform c/q² bound"
+      },
+      "zh": {
+        "title": "边界，不能偷换",
+        "subtitle": [
+          "这不表示每个分数的误差都至少是 1／q²。三百五十五除以一百一十三，就已经小于这个值。",
+          "指数等于 2，也不推出存在固定正数 c 的 c／q² 下界。它同样不是一种更快计算 π 的算法。"
+        ],
+        "label": "μ(π)＝2 不推出统一的 c／q² 下界"
+      }
+    },
+    {
+      "id": "roadmap",
+      "duration": 18,
+      "en": {
+        "title": "The paper's claimed proof strategy",
+        "subtitle": [
+          "Suppose a fixed exponent above two could be beaten at arbitrarily large denominators. Select well-separated good approximations.",
+          "The paper uses a multivariable interpolation theorem to build a matrix with a nonzero rational-complex determinant."
+        ],
+        "label": "a roadmap, not a verification of the proof"
+      },
+      "zh": {
+        "title": "论文声称的证明路线",
+        "subtitle": [
+          "反过来，假设某个大于 2 的固定指数，能被任意大分母的近似值击败。挑选一组尺度分离的好近似。",
+          "论文用多变量插值定理，构造一个矩阵，使它的一个取值于有理复数的行列式不为零。"
+        ],
+        "label": "这是证明路线图，不是对证明的独立核验"
+      }
+    },
+    {
+      "id": "determinant",
+      "duration": 22,
+      "en": {
+        "title": "One determinant, incompatible bounds",
+        "subtitle": [
+          "Clear denominators. A nonzero Gaussian integer has absolute value at least one. This creates an arithmetic lower bound for the original determinant.",
+          "The claimed analytic estimate uses the tiny approximation errors and cancellations to force the same determinant below that lower bound.",
+          "If both bounds and nonvanishing hold, the assumed infinite supply of exceptional approximations is impossible."
+        ],
+        "label": "schematic comparison · not the paper's exact estimates"
+      },
+      "zh": {
+        "title": "同一个行列式，两道矛盾的界",
+        "subtitle": [
+          "清除分母后，非零高斯整数的绝对值至少为 1，于是原行列式得到一个算术下界。",
+          "论文声称的解析估计，利用微小的逼近误差与消去现象，将同一个行列式压到该下界之下。",
+          "如果非零性和两侧估计都成立，原先假设的无穷多个超常近似就不可能存在。"
+        ],
+        "label": "仅为结构示意，未展示论文的精确估计"
+      }
+    },
+    {
+      "id": "bottleneck",
+      "duration": 18,
+      "en": {
+        "title": "Where the real difficulty lives",
+        "subtitle": [
+          "More unknowns than constraints does not, by itself, prove that the special interpolation matrix has full rank.",
+          "The paper's crucial claim is an interpolation result with thresholds independent of the center locations. That prevents circular choices. This is a major step to audit."
+        ],
+        "label": "Full rank needs a theorem, not a dimension count"
+      },
+      "zh": {
+        "title": "真正的困难，藏在这里",
+        "subtitle": [
+          "未知数比约束多，并不能自动证明这个特殊插值矩阵满秩。",
+          "论文关键主张，是阈值不依赖中心位置的插值定理。这样选择参数才不会循环依赖；这也是需要重点核查的一步。"
+        ],
+        "label": "维数计数，并不自动保证满秩"
+      }
+    },
+    {
+      "id": "status",
+      "duration": 18,
+      "en": {
+        "title": "What has actually been checked?",
+        "subtitle": [
+          "The repository contains a paper and Lean and Comparator files stating the same complete target. We checked the displayed statement and its quantifiers.",
+          "We have not independently compiled the formalization or validated every proof step. This review animation does not establish peer-reviewed acceptance."
+        ],
+        "label": "source snapshot: openai/math · adc7f1241b42"
+      },
+      "zh": {
+        "title": "目前，到底核查了什么？",
+        "subtitle": [
+          "仓库提供了论文，以及陈述同一完整目标的 Lean 和 Comparator 文件。我们检查了所展示命题与量词的一致性。",
+          "我们没有独立编译形式化工程，也没有逐步验证整份证明。这份审稿动画不能代表学界或同行评审的认可。"
+        ],
+        "label": "来源快照：openai/math · adc7f1241b42"
+      }
+    },
+    {
+      "id": "outro",
+      "duration": 12,
+      "en": {
+        "title": "One great fraction is a moment",
+        "subtitle": [
+          "An irrationality exponent describes an infinite pattern. For the claim mu of pi equals two, remember: every exponent above two, eventually."
+        ],
+        "label": "An exponent describes an infinite pattern"
+      },
+      "zh": {
+        "title": "一个好分数，是一个瞬间",
+        "subtitle": [
+          "无理数指数，描述的却是无穷序列的规律。理解 μ(π)＝2 的主张，请记住：每个大于 2 的指数，都有一个“从此以后”。"
+        ],
+        "label": "一个无理数指数，描述无穷的规律"
+      }
+    }
+  ]
+}

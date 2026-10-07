@@ -1,0 +1,107 @@
+1
+00:00:00,000 --> 00:00:07,000
+A fraction can imitate pi astonishingly well. But a small error is only half the story.
+
+2
+00:00:07,000 --> 00:00:14,000
+The other half is the size of its denominator. How much accuracy can that denominator buy?
+
+3
+00:00:14,000 --> 00:00:20,667
+Twenty-two sevenths misses pi by about 0.00126449. The denominator is only seven.
+
+4
+00:00:20,667 --> 00:00:27,333
+With denominator 113, the fraction 355 over 113 has error about 0.000000266764.
+
+5
+00:00:27,333 --> 00:00:34,000
+That is remarkable. It is still a single approximation, not an infinite pattern.
+
+6
+00:00:34,000 --> 00:00:43,000
+Use the denominator q as a scale. Compare the error with one over q squared, or one over q to the power 2.5.
+
+7
+00:00:43,000 --> 00:00:52,000
+On logarithmic axes, these powers are straight lines. A dot below a line beats that benchmark at that denominator.
+
+8
+00:00:52,000 --> 00:01:02,000
+The irrationality exponent is the supremum of exponents nu for which infinitely many reduced fractions beat q to the minus nu.
+
+9
+00:01:02,000 --> 00:01:12,000
+A larger exponent means an even smaller target error. One spectacular fraction cannot decide this supremum.
+
+10
+00:01:12,000 --> 00:01:20,000
+Take the fractional parts of zero, x, two x, all the way to N x. There are N plus one points in N equal boxes.
+
+11
+00:01:20,000 --> 00:01:28,000
+Two points share a box. Subtracting them gives integers p and q, with one at most q at most N, and error less than one over q N.
+
+12
+00:01:28,000 --> 00:01:36,000
+That is at most one over q squared. For irrational x, increasing N forces infinitely many distinct approximations. So the exponent is at least two.
+
+13
+00:01:36,000 --> 00:01:44,000
+The repository claims the matching upper bound. Choose any exponent nu strictly greater than two.
+
+14
+00:01:44,000 --> 00:01:52,000
+There is a threshold Q, allowed to depend on nu. Beyond it, every integer numerator p and every integer denominator q satisfy this inequality.
+
+15
+00:01:52,000 --> 00:02:00,000
+The paper does not give an effective value of Q. These quantifiers are the substance of the claim.
+
+16
+00:02:00,000 --> 00:02:09,000
+This is not a lower bound of one over q squared for every fraction. The example 355 over 113 already beats that.
+
+17
+00:02:09,000 --> 00:02:18,000
+Exponent two also does not imply a fixed positive constant c giving a c over q squared bound. And it is not a faster algorithm for computing pi.
+
+18
+00:02:18,000 --> 00:02:27,000
+Suppose a fixed exponent above two could be beaten at arbitrarily large denominators. Select well-separated good approximations.
+
+19
+00:02:27,000 --> 00:02:36,000
+The paper uses a multivariable interpolation theorem to build a matrix with a nonzero rational-complex determinant.
+
+20
+00:02:36,000 --> 00:02:43,333
+Clear denominators. A nonzero Gaussian integer has absolute value at least one. This creates an arithmetic lower bound for the original determinant.
+
+21
+00:02:43,333 --> 00:02:50,667
+The claimed analytic estimate uses the tiny approximation errors and cancellations to force the same determinant below that lower bound.
+
+22
+00:02:50,667 --> 00:02:58,000
+If both bounds and nonvanishing hold, the assumed infinite supply of exceptional approximations is impossible.
+
+23
+00:02:58,000 --> 00:03:07,000
+More unknowns than constraints does not, by itself, prove that the special interpolation matrix has full rank.
+
+24
+00:03:07,000 --> 00:03:16,000
+The paper's crucial claim is an interpolation result with thresholds independent of the center locations. That prevents circular choices. This is a major step to audit.
+
+25
+00:03:16,000 --> 00:03:25,000
+The repository contains a paper and Lean and Comparator files stating the same complete target. We checked the displayed statement and its quantifiers.
+
+26
+00:03:25,000 --> 00:03:34,000
+We have not independently compiled the formalization or validated every proof step. This review animation does not establish peer-reviewed acceptance.
+
+27
+00:03:34,000 --> 00:03:46,000
+An irrationality exponent describes an infinite pattern. For the claim mu of pi equals two, remember: every exponent above two, eventually.

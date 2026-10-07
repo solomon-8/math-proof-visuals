@@ -1,0 +1,4 @@
+# Direct dependencies observed in the rendering environment, 2026-10-07.
+Pillow==12.3.0
+numpy==2.3.5
+matplotlib==3.10.8

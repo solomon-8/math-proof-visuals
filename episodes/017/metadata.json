@@ -1,0 +1,117 @@
+{
+  "episode": "017",
+  "title": {
+    "en": "How close can a fraction get to pi?",
+    "zh": "一个分数，能离 π 多近？"
+  },
+  "version": "review-animatic-v1",
+  "created_utc": "2026-10-07",
+  "runtime_seconds": 226,
+  "languages": [
+    "zh",
+    "en"
+  ],
+  "audio_present": false,
+  "narration_status": "not produced",
+  "format": {
+    "width": 1280,
+    "height": 720,
+    "fps": 24,
+    "codec": "H.264"
+  },
+  "source_repository": "https://github.com/openai/math",
+  "source_commit": "adc7f1241b42e322a6451854ab7e4b4c146bf78a",
+  "source_author": "OpenAI",
+  "source_paper_date": "2026-09-24",
+  "source_license": "Apache-2.0",
+  "source_files": [
+    {
+      "path": "preprints/The-irrationality-exponent-of-pi-is-2-September-24-2026/build/main.tex",
+      "url": "https://github.com/openai/math/blob/adc7f1241b42e322a6451854ab7e4b4c146bf78a/preprints/The-irrationality-exponent-of-pi-is-2-September-24-2026/build/main.tex",
+      "sha256": "1479652f0081d4326911800cd2f8f68045f06d27861f7d1feb275db90cad7d8d"
+    },
+    {
+      "path": "preprints/The-irrationality-exponent-of-pi-is-2-September-24-2026/paper.pdf",
+      "url": "https://github.com/openai/math/blob/adc7f1241b42e322a6451854ab7e4b4c146bf78a/preprints/The-irrationality-exponent-of-pi-is-2-September-24-2026/paper.pdf",
+      "sha256": "26eec5de7ac9dc49d28183fdea458e0858bc3323b5ba93c3d41bb105d8e3eab6"
+    },
+    {
+      "path": "lean/docs/017.md",
+      "url": "https://github.com/openai/math/blob/adc7f1241b42e322a6451854ab7e4b4c146bf78a/lean/docs/017.md",
+      "sha256": "a738f64b79494db1ed2deacb26a8c0a2c0babe85c8153f75bcba388bc46a534c"
+    },
+    {
+      "path": "lean/ComparatorChallenges/PiExponent.json",
+      "url": "https://github.com/openai/math/blob/adc7f1241b42e322a6451854ab7e4b4c146bf78a/lean/ComparatorChallenges/PiExponent.json",
+      "sha256": "1e3e4707e73becd09872768b103547c68491199fe2c76d17b237a4f114f2c8a1"
+    },
+    {
+      "path": "lean/ComparatorChallenges/PiExponent.lean",
+      "url": "https://github.com/openai/math/blob/adc7f1241b42e322a6451854ab7e4b4c146bf78a/lean/ComparatorChallenges/PiExponent.lean",
+      "sha256": "6b50d65255870bd4e482b2e552640febe791397577bb7a87a8783c5544bd0b03"
+    },
+    {
+      "path": "lean/OAI/NumberTheory/PiExponent/Main.lean",
+      "url": "https://github.com/openai/math/blob/adc7f1241b42e322a6451854ab7e4b4c146bf78a/lean/OAI/NumberTheory/PiExponent/Main.lean",
+      "sha256": "51a034738b1a61a17b076f19b0e12e4297e3974299bbca186b65f6e0826f0933"
+    },
+    {
+      "path": "lean/OAI/NumberTheory/PiExponent/Approximation/Exponent.lean",
+      "url": "https://github.com/openai/math/blob/adc7f1241b42e322a6451854ab7e4b4c146bf78a/lean/OAI/NumberTheory/PiExponent/Approximation/Exponent.lean",
+      "sha256": "395e35c992da80b1f9eea1e2502cc6c5f63656400568f7c44a104b5c13699697"
+    }
+  ],
+  "mathematical_status": {
+    "statement_and_quantifiers_reviewed": true,
+    "numerical_examples_independently_recomputed": true,
+    "independent_lean_compilation": false,
+    "full_proof_verified": false,
+    "peer_review_acceptance_established": false,
+    "script_audit": "Reviewed statement, pigeonhole argument, and attributed roadmap; not full proof certification"
+  },
+  "central_claim": "For every real nu > 2, there exists an integer Q >= 2 (depending on nu) such that for every integer p and q >= Q, |pi - p/q| >= q^(-nu). Threshold is not given effectively. Repository also states the supremum characterization mu(pi)=2.",
+  "does_not_claim": [
+    "uniform c/q^2 lower bound",
+    "error >= 1/q^2 for every fraction",
+    "faster algorithm for pi",
+    "independent formal compilation",
+    "research proof accepted by mathematical community"
+  ],
+  "asset_origin": {
+    "script": "original bilingual educational paraphrase",
+    "visuals": "original programmatic graphics",
+    "fonts": [
+      "DejaVu Sans",
+      "Noto Sans CJK SC"
+    ],
+    "music": "none",
+    "voice": "none",
+    "third_party_video": "none"
+  },
+  "publication_status": "Source prepared for public publication; review videos are distributed separately",
+  "validation": {
+    "zh": {
+      "codec_name": "h264",
+      "width": 1280,
+      "height": 720,
+      "pix_fmt": "yuv420p",
+      "avg_frame_rate": "24/1",
+      "nb_frames": "5424",
+      "duration": "226.000000"
+    },
+    "en": {
+      "codec_name": "h264",
+      "width": 1280,
+      "height": 720,
+      "pix_fmt": "yuv420p",
+      "avg_frame_rate": "24/1",
+      "nb_frames": "5424",
+      "duration": "226.000000"
+    }
+  },
+  "artifact_sha256": {
+    "017_pi_exponent_zh_review.mp4": "e5ebdf0df66ff1ed35cbae7e4f11dc4b9e0920a9eab3b92d4f8b7834a6827387",
+    "017_pi_exponent_en_review.mp4": "900e6773d5a01770842c93488f2b165c65c6e743d1f4cc520b03bd338e6620b1"
+  },
+  "qa_status": "passed codec/duration/full decode/subtitle bounds/numerical tests; contact sheets visually inspected"
+}

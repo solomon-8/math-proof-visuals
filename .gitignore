@@ -1,0 +1,30 @@
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+.env.*
+*.pem
+*.key
+*.mp4
+*.mov
+*.wav
+*.mp3
+episodes/*/frames/
+episodes/*/renders/
+# Local working data and publication staging must never be swept into Git.
+publication/
+audit/
+research/
+math/
+# Speech engine and intermediate audio are downloaded/generated locally.
+narration/.runtime/
+narration/models/
+narration/downloads/
+narration/**/logs/
+narration/samples/
+narration/research/
+narration/**/raw/
+narration/**/scene_audio/
+episodes/*/voiced_*/frames/
+episodes/*/voiced_*/renders/
