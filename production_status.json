@@ -1,0 +1,2989 @@
+{
+  "as_of_utc": "2026-10-07T01:03:00Z",
+  "scope_note": "Production state is separate from GitHub asset availability; no full-proof certification is implied.",
+  "families": [
+    {
+      "family_id": "017",
+      "review_video_zh": "complete",
+      "review_video_en": "complete",
+      "voiced_video_zh": "awaiting_new_voice",
+      "voiced_video_en": "awaiting_new_voice",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "158",
+      "review_video_zh": "complete",
+      "review_video_en": "complete",
+      "voiced_video_zh": "awaiting_new_voice",
+      "voiced_video_en": "awaiting_new_voice",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "107",
+      "review_video_zh": "complete",
+      "review_video_en": "complete",
+      "voiced_video_zh": "awaiting_new_voice",
+      "voiced_video_en": "awaiting_new_voice",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "003",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "376",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "362",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "179",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "102",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "130",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "265",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "155",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "162",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "185",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "121",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "156",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "161",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "190",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "157",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "167",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "182",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "184",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "188",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "191",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "106",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "118",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "363",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "113",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "115",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "124",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "126",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "135",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "139",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "260",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "261",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "262",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "263",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "266",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "267",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "269",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "271",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "272",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "273",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "274",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "275",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "276",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "277",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "279",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "280",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "281",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "159",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "160",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "165",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "168",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "169",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "170",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "172",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "173",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "174",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "175",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "176",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "177",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "180",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "181",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "183",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "186",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "187",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "189",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "192",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "278",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "104",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "105",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "108",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "110",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "111",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "112",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "114",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "116",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "117",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "119",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "122",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "125",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "127",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "128",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "129",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "131",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "132",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "133",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "134",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "140",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "283",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "166",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "142",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "109",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "120",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "214",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "264",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "268",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "270",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "282",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "284",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "151",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "365",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "367",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "369",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "370",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "371",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "372",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "373",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "374",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "150",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "088",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "098",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "164",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "171",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "178",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "103",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "136",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "137",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "138",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "141",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "092",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "099",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "100",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "211",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "212",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "213",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "215",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "218",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "220",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "221",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "222",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "227",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "228",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "229",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "230",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "231",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "234",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "235",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "236",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "237",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "238",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "143",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "144",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "145",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "146",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "148",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "149",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "152",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "087",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "089",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "090",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "091",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "094",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "095",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "096",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "097",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "364",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "366",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "368",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "375",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "377",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "216",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "217",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "219",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "223",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "224",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "225",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "226",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "232",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "233",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "239",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "242",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "071",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "073",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "147",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "153",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "154",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "243",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "093",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "101",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "347",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "353",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "361",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "343",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "072",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "076",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "081",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "082",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "083",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "084",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "085",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "240",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "241",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "244",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "245",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "345",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "333",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "334",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "337",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "342",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "348",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "350",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "354",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "356",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "358",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "359",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "360",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "075",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "077",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "005",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "012",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "013",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "015",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "026",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "028",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "340",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "074",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "078",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "079",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "080",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "086",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "007",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "008",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "009",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "020",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "021",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "023",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "024",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "025",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "335",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "336",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "338",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "339",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "341",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "344",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "346",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "349",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "351",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "352",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "355",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "357",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "010",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "011",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "329",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "330",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "322",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "249",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "307",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "001",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "002",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "004",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "006",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "014",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "016",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "018",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "019",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "022",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "027",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "029",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "030",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "031",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "323",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "324",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "325",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "326",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "327",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "328",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "331",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "246",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "247",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "248",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "250",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "251",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "252",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "253",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "254",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "255",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "256",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "257",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "312",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "317",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "318",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "319",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "321",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "309",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "313",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "332",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "258",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "259",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "196",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "198",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "199",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "206",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "304",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "305",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "306",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "308",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "310",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "311",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "314",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "315",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "316",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "320",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "049",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "050",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "194",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "197",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "205",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "207",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "210",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "195",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "201",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "209",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "294",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "297",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "033",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "039",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "047",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "052",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "058",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "046",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "048",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "053",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "059",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "193",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "200",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "202",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "203",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "204",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "208",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "287",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "288",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "289",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "290",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "291",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "292",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "293",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "295",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "296",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "298",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "299",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "303",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "285",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "032",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "034",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "035",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "036",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "037",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "038",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "040",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "041",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "042",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "043",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "044",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "051",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "054",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "055",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "056",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "057",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "060",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "062",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "063",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "064",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "065",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "066",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "067",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "068",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "069",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "286",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "300",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "301",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    },
+    {
+      "family_id": "302",
+      "review_video_zh": "pending",
+      "review_video_en": "pending",
+      "voiced_video_zh": "pending",
+      "voiced_video_en": "pending",
+      "independent_lean_compilation": "not_performed"
+    }
+  ],
+  "totals": {
+    "result_families": 372,
+    "bilingual_silent_reviews_ready": 3,
+    "remaining_families_pending": 369,
+    "approved_voiced_episodes": 0
+  },
+  "voice_status": "Previous Kokoro voice rejected by the user; no old audio or voiced video is published. New voice sample approval required."
+}

@@ -1,0 +1,27 @@
+{
+  "challenge_solution_main_statements_textually_identical": true,
+  "pi_in_manifest_text": false,
+  "toolchain_requested": "leanprover/lean4:v4.34.1",
+  "binaries_on_PATH": {
+    "lean": null,
+    "lake": null,
+    "elan": null,
+    "comparator": null,
+    "lean4export": null,
+    "landrun": null
+  },
+  "known_environment_paths": {
+    "upstream/lean/.lake": false,
+    "<user-home>/.elan": false,
+    "<superuser-home>/.elan": false,
+    "/opt/lean": false,
+    "/usr/local/bin/lean": false
+  },
+  "verification_performed": "static source inspection only; no Lean/Lake/Comparator invocation",
+  "source_sha256": {
+    "lean/ComparatorChallenges/PiExponent.lean": "6b50d65255870bd4e482b2e552640febe791397577bb7a87a8783c5544bd0b03",
+    "lean/ComparatorChallenges/PiExponent.json": "1e3e4707e73becd09872768b103547c68491199fe2c76d17b237a4f114f2c8a1",
+    "lean/OAI/NumberTheory/PiExponent/Main.lean": "51a034738b1a61a17b076f19b0e12e4297e3974299bbca186b65f6e0826f0933",
+    "preprints/The-irrationality-exponent-of-pi-is-2-September-24-2026/paper.pdf": "26eec5de7ac9dc49d28183fdea458e0858bc3323b5ba93c3d41bb105d8e3eab6"
+  }
+}

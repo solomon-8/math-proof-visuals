@@ -1,0 +1,50 @@
+{
+  "pi_examples": {
+    "22/7": {
+      "absolute_error": "0.00126448926734961868021375957763997294568774348203703616791255054932645085665",
+      "q_squared_error": "0.0619599741001313153304742193043586743386994306198147722277149769169960919758",
+      "beats_inverse_q_squared": true
+    },
+    "355/113": {
+      "absolute_error": "0.000000266764189062422312368932886496333804051952327807343639478488643770704941444",
+      "q_squared_error": "0.0034063119301380705066389040276716863439393792737719709325008214923081313973",
+      "beats_inverse_q_squared": true
+    }
+  },
+  "permanent_covariance": {
+    "centered_rows": 85,
+    "exact_row_pairs": 7225,
+    "all_passed": true,
+    "scope": "Only the uniform S4 covariance identity underlying the local p>4/3 calculation; not the full Thorp mixing theorem."
+  },
+  "affine_maximal_ode": {
+    "corner_equilibrium_exact": true,
+    "D_equation_exact": true,
+    "face_expressions": {
+      "V1_lower": "0",
+      "V1_upper": "9*(2*B - 7)/4",
+      "V2_lower": "0",
+      "V2_upper": "7*(22*A + 84*D - 495)/44",
+      "V3_lower": "11*A",
+      "V3_upper": "44*(7*A + 3*B - 42)/49"
+    },
+    "scope": "Lemma 4.1 change of variables and Lemma 4.2 invariant-box algebra; no full PDE formalization."
+  },
+  "coulomb_local_branch": {
+    "K": 20,
+    "positive_definite_exact": true,
+    "DX_determinant": "2025/7784746",
+    "DZ_determinant": "1/3892373",
+    "cost_at_center": "5/2",
+    "mixed_center_gap": "-1/2 + sqrt(2)/2",
+    "scope": "Lemma 3.1 finite center algebra and Proposition 4.1 center gap only; local-to-global measure proof reviewed separately."
+  },
+  "hadamard_examples": {
+    "F6_gram_exact": true,
+    "F6_twenty_alpha_characters_exact_zero": true,
+    "Tao_gram_exact": true,
+    "Tao_entrywise_square_gram_exact": true,
+    "scope": "Explicit examples only, separate from the repository general exact certificate rerun."
+  },
+  "limitations": "No finite sample verifies an asymptotic universal claim. No confirmed counterexample found in these bounded checks. No Lean build was attempted."
+}

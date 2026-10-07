@@ -1,0 +1,116 @@
+{
+  "hexagon_radius": "2/5",
+  "max_same_tile_distance": "4/5",
+  "lattice_norm_squared": "9*b**2/25 + 3*(2*a + b)**2/25",
+  "same_color_rule": "(a+3b) mod7",
+  "same_color_norm_divisibility": "7*b**2 - 35*b*k + 49*k**2",
+  "closest_same_color_indices": [
+    [
+      1,
+      2
+    ],
+    [
+      -3,
+      1
+    ]
+  ],
+  "minimum_distinct_same_color_point_distance_lower_bound": "-4/5 + 2*sqrt(21)/5",
+  "bound_decimal": 1.033030277982336,
+  "Moser_vertices": [
+    [
+      "0",
+      "0"
+    ],
+    [
+      "-sqrt(3)/12 + sqrt(11)/4",
+      "1/4 + sqrt(33)/12"
+    ],
+    [
+      "sqrt(3)/12 + sqrt(11)/4",
+      "1/4 - sqrt(33)/12"
+    ],
+    [
+      "sqrt(11)/2",
+      "1/2"
+    ],
+    [
+      "sqrt(3)/12 + sqrt(11)/4",
+      "-1/4 + sqrt(33)/12"
+    ],
+    [
+      "-sqrt(3)/12 + sqrt(11)/4",
+      "-sqrt(33)/12 - 1/4"
+    ],
+    [
+      "sqrt(11)/2",
+      "-1/2"
+    ]
+  ],
+  "Moser_edges": [
+    [
+      0,
+      1
+    ],
+    [
+      0,
+      2
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      1,
+      3
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      0,
+      4
+    ],
+    [
+      0,
+      5
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      4,
+      6
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      3,
+      6
+    ]
+  ],
+  "all_11_edges_exact_unit": true,
+  "no_additional_unit_edges": true,
+  "color_enumeration": {
+    "3": {
+      "count": 0,
+      "example": null
+    },
+    "4": {
+      "count": 384,
+      "example": [
+        0,
+        1,
+        2,
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  },
+  "scope": "Checks the educational constructions only. Does not verify the new five-color lower bound or its arbitrary-to-weak-measurable transfer."
+}

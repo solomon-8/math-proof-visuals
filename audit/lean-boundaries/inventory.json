@@ -1,0 +1,28 @@
+{
+  "commit": "adc7f1241b42e322a6451854ab7e4b4c146bf78a",
+  "sources": 162,
+  "main_results": 185,
+  "unique_manifest_configs": 178,
+  "related_formalizations": 30,
+  "comparator_configs": 405,
+  "comparator_total_theorem_names": 507,
+  "comparator_unique_theorem_names": 506,
+  "all_permitted_axioms_standard": true,
+  "enable_nanoda_false": 402,
+  "nanoda_other": {
+    "UniversalTensorSquares.json": "default",
+    "KadisonRingrose.json": "default",
+    "ArtinParabolicIntersections.json": true
+  },
+  "missing_result_paths": [],
+  "missing_source_paths": [],
+  "manifest_config_duplicates": {
+    "ComparatorChallenges/EgyptianFractions.json": 3,
+    "ComparatorChallenges/GaussianReplacement.json": 2,
+    "ComparatorChallenges/IndependentProducts.json": 2,
+    "ComparatorChallenges/MatrixMultiplication.json": 3,
+    "ComparatorChallenges/SmoothYau.json": 2
+  },
+  "manifest_declaration_duplicates": {},
+  "preprint_directories": 722
+}
