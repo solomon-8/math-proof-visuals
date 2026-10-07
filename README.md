@@ -9,8 +9,10 @@ Bilingual visual explainers of mathematical claims, with explicit source attribu
 As of 7 October 2026 UTC:
 
 - Episodes 017, 158 and 107 each have separate Chinese/English subtitle-only review cuts completed locally
-- Episode 017's Chinese voiced cut has passed technical media checks; its English narration/render is still in progress
-- Human listening approval of generated speech remains pending
+- Narrated videos for all three episodes are awaiting a new voice (`awaiting_new_voice`)
+- The previous Kokoro voice was rejected by the user. Its audio, voiced MP4s, and release package are not published
+- A new model/voice sample must be approved by the user before full narration or voiced publication resumes
+- All other result families in the 372-family queue remain pending
 - This initial source snapshot contains the 017 review pipeline. Further episode source and verified downloads are added as their publication checks finish
 
 No claim is made that all 372 source result families have videos or independently verified proofs.
