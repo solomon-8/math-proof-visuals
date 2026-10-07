@@ -12,8 +12,8 @@
     },
     {
       "path": "episodes/017/metadata.json",
-      "bytes": 4875,
-      "sha256": "510befdd45c8af73d08e4d3f3e8a1cc3a6c178878ed9867aa5ddb4fb55dd5f72"
+      "bytes": 5120,
+      "sha256": "d2633ed8bac376c26bc03e70efb68733848a197eb4b63e83ad4b839d7432d1f8"
     },
     {
       "path": "video/qa/validation.json",
@@ -52,8 +52,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 5401,
-      "sha256": "baca4061889a2a551bd2c719ea2ca5e13e516fc71999a70d62c4f6319b7cdc76"
+      "bytes": 5598,
+      "sha256": "df71fb9d32e306f19d6822ca8c83a66ae33ea7cdd34f3e9d0f761383bd7feffb"
     },
     {
       "path": "SOURCE_SNAPSHOT.md",
