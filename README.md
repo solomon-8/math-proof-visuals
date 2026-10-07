@@ -13,9 +13,21 @@ As of 7 October 2026 UTC:
 - The previous Kokoro voice was rejected by the user. Its audio, voiced MP4s, and release package are not published
 - A new model/voice sample must be approved by the user before full narration or voiced publication resumes
 - All other result families in the 372-family queue remain pending
-- This initial source snapshot contains the 017 review pipeline. Further episode source and verified downloads are added as their publication checks finish
+- The repository contains the 017 review source, the 372-family research catalogue and ranking, and bounded review evidence. Further episode source and approved downloads are added as their publication checks finish
+
+Counts: 372 result families in total; 3 bilingual subtitle-only review cuts ready; 369 families pending video production; 0 approved narrated episodes. These production counts are separate from the files published in this repository.
 
 No claim is made that all 372 source result families have videos or independently verified proofs.
+
+## Research and review · 研究与审查
+
+- [Research report and communication ranking](research/REPORT.md), [complete 372-family ranking](research/ranking.json), and [attributed catalogue](research/catalog.json)
+- [Algorithms and practical-computing scope](research/algorithms.md), [physics and real-world relevance](research/physics.md)
+- [Sources and precise scope for the first three episodes](research/FIRST_THREE_SOURCES.md)
+- [Bounded proof-review report](audit/REPORT.md), [Episode 158 mathematical review](audit/episode158_review.md), [Episode 107 mathematical review](audit/episode107_review.md)
+- [Reproduce the editorial ranking](research/REPRODUCE.md), [reproduce the bounded original checks](audit/REPRODUCE.md), [machine-readable production status](production_status.json)
+
+The editorial ranking is a production queue, not a probability that a proof is correct. The audit found no confirmed mathematical counterexample within its bounded checks; it does not certify the full repository.
 
 ## Episode 017 · How close can a fraction get to π?
 
